@@ -214,7 +214,7 @@
             },
             label: "Leaderboard",
             path: "/leaderboard",
-            isFeatureAvailable: !0,
+            isFeatureAvailable: !1,
           },
           {
             availableIconLight: {

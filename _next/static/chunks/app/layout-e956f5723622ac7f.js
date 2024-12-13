@@ -748,16 +748,6 @@
                             orientation: "vertical",
                             style: { width: 1, height: 40 },
                           }),
-                          (0, n.jsx)("div", {
-                            className:
-                              "absolute h-1 top-0 left-4 1.5xl:left-6 rounded-b-2xl -translate-y-3 bg-buttonBackground transition-all duration-200 ".concat(
-                                "/" === x
-                                  ? "w-[calc(11%)]"
-                                  : "/leaderboard" === x
-                                  ? "translate-x-[calc(82%)] w-[calc(18%)]"
-                                  : void 0
-                              ),
-                          }),
                           w.cP.map((e) =>
                             (0, n.jsx)(
                               p(),
