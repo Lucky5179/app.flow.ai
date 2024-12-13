@@ -733,7 +733,7 @@
                   (0, n.jsx)(g(), {
                     className: "cursor-pointer",
                     onClick: () =>
-                      window.open("https://flowx-ai.vercel.app/", "_blank"),
+                      window.open("https://flow-ai-jade.vercel.app/", "_blank"),
                     priority: !0,
                     src: el && el >= 1140 ? (ec ? _.Z : T.Z) : ec ? N.Z : C.Z,
                     alt: "Logo",
